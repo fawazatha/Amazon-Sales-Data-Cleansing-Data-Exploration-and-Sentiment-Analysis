@@ -1,6 +1,7 @@
 # Amazon-Sales-Data-Cleansing-and-Data-Exploration
 
-Title: Exploratory Data Analysis of Amazon Sales Data
+Title: 
+Exploratory Data Analysis of Amazon Sales Data
 
 Description:
 In this Jupyter Notebook project, I conduct an exploratory data analysis of Amazon sales data to gain insights into the company's sales trends. The data used in this analysis was collected from Kaggle's Amazon Sales Dataset. The dataset contains information on the product ID, product name, category, discounted and actual prices, discount percentage, rating, number of ratings, product description, user ID, user name, review ID, review title and content, image link, and official website link for each product. I use Python and several Python libraries, including Pandas, Matplotlib, Seaborn, and more, to efficiently analyze and visualize the data. I perform various data cleaning and preprocessing tasks to prepare the data for analysis and then explore the data using descriptive statistics, scatter plots, histograms, and other visualization techniques.
