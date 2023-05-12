@@ -12,5 +12,7 @@ I obtained my data from Kaggle's Amazon Sales Dataset, which contains informatio
 
 Analysis Methods:
 I use Python and several Python libraries, including Pandas, Matplotlib, Seaborn, and Scikit-learn, to analyze, visualize, and model the data. We perform various data cleaning and preprocessing tasks to prepare the data for analysis and then explore the data using descriptive statistics, scatter plots, histograms, and other visualization techniques. Additionally, I have performed a linear regression analysis to predict the discounted price. I have evaluated the performance of the linear regression model using metrics such as mean squared error, root mean squared error, R-squared value.
+In addition to the above analyses, I also have employed sentiment analysis using VADER. VADER is a rule-based sentiment analysis tool specifically designed to analyze text data sentiments. By leveraging VADER, we can determine customer reviews' sentiment polarity (positive, negative, or neutral) in the Amazon sales data. This analysis allows us to understand better customer sentiment and its potential impact on sales and customer satisfaction.
+We can gain valuable insights into Amazon sales data by combining data cleaning, exploratory analysis, linear regression modeling, and sentiment analysis. These insights can aid in making informed business decisions and uncovering actionable patterns that can drive success.
 
 
