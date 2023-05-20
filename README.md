@@ -1,4 +1,4 @@
-# Amazon-Sales-Data-Cleansing-and-Data-Exploration
+# Amazon-Sales-Data-Cleansing-Data-Exploration-And-Sentiment Analysis
 
 Title: 
 Exploratory Data Analysis of Amazon Sales Data
